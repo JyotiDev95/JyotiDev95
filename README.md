@@ -8,11 +8,11 @@
 
 - 🌱 Currently delving into **Redux Toolkit, Node, RestAPI, and NextJS.**
 
-- 👨‍💻 Explore my portfolio: [CV](https://portfolio-app-lovat-xi.vercel.app/)
+- 👨‍💻 Explore my portfolio: [Portfolio App](https://portfolio-app-lovat-xi.vercel.app/)
 
 - 📫 How to reach me **jyotiprakash0737@gmail.com**
 
-- 📄 Discover my professional journey: [Resume](https://drive.google.com/file/d/1ubSMt4TQBscWhgOYA0p3QxNxz1Dj_3s_/view?usp=sharing)
+- 📄 Discover my professional journey: [CV](https://portfolio-app-lovat-xi.vercel.app/assets/Jyoti%20Prakash-Dev-July-CV-ByHnFHeX.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
